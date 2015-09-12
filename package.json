@@ -11,7 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "consolidate": "^0.13.1",
-    "loader-utils": "~0.2.1",
-    "nunjucks": "^2.0.0"
+    "loader-utils": "~0.2.1"
   }
 }
